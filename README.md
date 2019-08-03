@@ -10,4 +10,5 @@ The project is broken down into multiple steps:
     Use the trained classifier to predict image content
 
 Here is a sample classification:
+
 ![Classification results](https://github.com/samardolui/FlowerImageClassification/blob/master/assets/inference_example.png)
